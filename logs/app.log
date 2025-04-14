@@ -5,3 +5,39 @@
 2025-04-14 00:14:57 [main] INFO  api.test.UserTest - Updating user
 2025-04-14 00:14:59 [main] INFO  api.test.UserTest - Deleting user
 2025-04-14 00:14:59 [main] INFO  api.test.UserTest - User deleted successfully with username: ping.kshlerin
+2025-04-14 10:24:15 [main] INFO  api.test.UserTest2 - Creating user
+2025-04-14 10:24:20 [main] INFO  api.test.UserTest2 - User created successfully with username: gerard.jast
+2025-04-14 10:24:20 [main] INFO  api.test.UserTest2 - Getting user by username
+2025-04-14 10:24:21 [main] INFO  api.test.UserTest2 - User retrieved successfully with username: gerard.jast
+2025-04-14 10:24:21 [main] INFO  api.test.UserTest2 - Updating user
+2025-04-14 10:24:22 [main] INFO  api.test.UserTest2 - Deleting user
+2025-04-14 10:24:23 [main] INFO  api.test.UserTest2 - User deleted successfully with username: gerard.jast
+2025-04-14 10:40:23 [main] INFO  api.test.UserTest - Creating user
+2025-04-14 10:40:27 [main] INFO  api.test.UserTest - User created successfully with username: yer.kertzmann
+2025-04-14 10:40:27 [main] INFO  api.test.UserTest - Getting user by username
+2025-04-14 10:40:28 [main] INFO  api.test.UserTest - Updating user
+2025-04-14 10:40:29 [main] INFO  api.test.UserTest - User updated successfully with username: yer.kertzmann
+2025-04-14 10:40:29 [main] INFO  api.test.UserTest - Deleting user
+2025-04-14 10:40:30 [main] INFO  api.test.UserTest - User deleted successfully with username: yer.kertzmann
+2025-04-14 11:07:42 [main] INFO  api.test.UserTest - Creating user
+2025-04-14 11:07:46 [main] INFO  api.test.UserTest - User created successfully with username: angel.torp
+2025-04-14 11:07:46 [main] INFO  api.test.UserTest - Getting user by username
+2025-04-14 11:07:47 [main] INFO  api.test.UserTest - User retrieved successfully with username: angel.torp
+2025-04-14 11:07:47 [main] INFO  api.test.UserTest - Updating user
+2025-04-14 11:07:48 [main] INFO  api.test.UserTest - User updated successfully with username: angel.torp
+2025-04-14 11:07:48 [main] INFO  api.test.UserTest - Deleting user
+2025-04-14 11:07:49 [main] INFO  api.test.UserTest - User deleted successfully with username: angel.torp
+2025-04-14 11:41:30 [main] INFO  api.test.UserTest - Creating user
+2025-04-14 11:41:35 [main] INFO  api.test.UserTest - User created successfully with username: kendall.mertz
+2025-04-14 11:41:35 [main] INFO  api.test.UserTest - Getting user by username
+2025-04-14 11:41:36 [main] INFO  api.test.UserTest - Updating user
+2025-04-14 11:41:38 [main] INFO  api.test.UserTest - User updated successfully with username: kendall.mertz
+2025-04-14 11:41:38 [main] INFO  api.test.UserTest - Deleting user
+2025-04-14 11:42:28 [main] INFO  api.test.UserTest - Creating user
+2025-04-14 11:42:32 [main] INFO  api.test.UserTest - User created successfully with username: merideth.king
+2025-04-14 11:42:32 [main] INFO  api.test.UserTest - Getting user by username
+2025-04-14 11:42:33 [main] INFO  api.test.UserTest - User retrieved successfully with username: merideth.king
+2025-04-14 11:42:33 [main] INFO  api.test.UserTest - Updating user
+2025-04-14 11:42:35 [main] INFO  api.test.UserTest - User updated successfully with username: merideth.king
+2025-04-14 11:42:35 [main] INFO  api.test.UserTest - Deleting user
+2025-04-14 11:42:36 [main] INFO  api.test.UserTest - User deleted successfully with username: merideth.king
